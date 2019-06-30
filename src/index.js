@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { crateStore } from 'redux';
+import { createStore } from 'redux';
 import { Provider } from 'react-redux';
 import App from './components/App';
 import './index.css';
